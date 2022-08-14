@@ -436,6 +436,8 @@ footer {
 .footer-contact .contact-us {
   color: var(--footer-contact);
   font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.03em;
 }
 
 .connect .connect-heading {
@@ -447,7 +449,6 @@ footer {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--main-haeding-color);
-  text-align: center;
 }
 
 .connect-box {
